@@ -1,20 +1,21 @@
 {
-  "name": "practice-javascript-code",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tarikul711/practice-javascript-code.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tarikul711/practice-javascript-code/issues"
-  },
-  "homepage": "https://github.com/Tarikul711/practice-javascript-code#readme"
+    "name": "practice-javascript-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tarikul711/practice-javascript-code.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tarikul711/practice-javascript-code/issues"
+    },
+    "homepage": "https://github.com/Tarikul711/practice-javascript-code#readme"
 }
